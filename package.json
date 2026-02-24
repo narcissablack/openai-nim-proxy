@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "OpenAI compatible proxy for NVIDIA NIM API",
   "main": "server.js",
-  "min_tokens": 500
+  "min_tokens": "1000",
   "scripts": {
     "start": "node server.js"
   },
